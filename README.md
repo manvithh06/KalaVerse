@@ -171,14 +171,6 @@ Note what the diagram does **not** contain: any arrow from the platform into the
 
 ---
 
-## Run it
-
-Requires **Node.js 20.9 or later**.
-
-```bash
-npm install
-npm run dev
-```
 
 Open <https://kala-verse-nine.vercel.app/>
 
