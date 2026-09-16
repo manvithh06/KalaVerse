@@ -180,7 +180,7 @@ npm install
 npm run dev
 ```
 
-Open <http://localhost:3000>.
+Open <https://kala-verse-nine.vercel.app/>
 
 ```bash
 npm run build && npm start   # production build
