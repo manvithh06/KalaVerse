@@ -185,9 +185,6 @@ Prarthana
 
 Prototype voiceover and explaination by : Lakshitha 
 
-```bash
-npm run build && npm start   # production build
-```
 
 There is no backend. All state lives in `localStorage` under `kalaverse-demo` and survives refreshes — which is the point: a judge can break the app, book things, protect things, and reload without losing the story.
 
