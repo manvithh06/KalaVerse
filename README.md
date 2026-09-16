@@ -176,10 +176,10 @@ Working Prototype:<https://kala-verse-nine.vercel.app/>
 Video explaination:<https://drive.google.com/drive/folders/1OTqHqJfcvgiB4lMVuIqg0HLG8wcwnfRP>
 
 In this video: 
-Lakshitha
-Likith Shetty
-Samay Shetty
-Manvith Devadiga
+Lakshitha,
+Likith Shetty,
+Samay Shetty,
+Manvith Devadiga,
 Prarthana
 
 Prototype voiceover and explaination by : Lakshitha 
